@@ -1,0 +1,7 @@
+{
+  "name": "ai-math-differentiator",
+  "version": "1.0.0",
+  "description": "Web app that uses AI to differentiate a quadratic equations task into three levels",
+  "private": true,
+  "engines": { "node": ">=18" }
+}
